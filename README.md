@@ -30,7 +30,7 @@ https://github.com/Bobloblawlobslawbomb/TheFableOfGriselda.Solution
 
 
 ### Installation
-1. Download either the mac or pc version of the game (enter links here). 
+1. Download either the mac or pc version of the game here (https://discord.com/channels/@me/852361591948181514/855564500958445578)
 2. Once the game has finished downloading, drag the application to your desktop, and open `The Fable of Griselda`. 
 
 ## Licensing
