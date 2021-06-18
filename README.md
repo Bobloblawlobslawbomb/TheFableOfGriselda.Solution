@@ -24,13 +24,12 @@ The Fable of Griselda game was designed to allow a user the ability to play as a
 ## Setup/Installation Requirements
 _You can download the Mac or Windows version of the game here:_
 <!-- links -->
-_You can view the raw coded version of the project [here]_
-https://github.com/Bobloblawlobslawbomb/TheFableOfGriselda.Solution
+_You can view the raw coded version of the project [here](https://github.com/Bobloblawlobslawbomb/TheFableOfGriselda.Solution)
 
 
 
 ### Installation
-1. Download either the mac or pc version of the game [here] (https://discord.com/channels/@me/852361591948181514/855564500958445578)
+1. Download either the mac or pc version of the game [here](https://discord.com/channels/@me/852361591948181514/855564500958445578)
 2. Once the game has finished downloading, drag the application to your desktop, and open `The Fable of Griselda`. 
 
 ## Licensing
